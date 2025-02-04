@@ -11,7 +11,7 @@ Actualmente, me enfoco en el desarrollo de **aplicaciones web dinámicas** usand
 ## 🛠 Tecnologías y herramientas
 
 - **Frontend**: HTML, CSS, JavaScript, React (en proceso de aprendizaje)
-- **Backend**: PHP, Laravel
+- **Backend**: PHP, Laravel, nodeJS
 - **Bases de datos**: MySQL, PostgreSQL
 - **Control de versiones**: Git, GitHub
 - **Despliegue y CI/CD**: Docker, Heroku, Netlify
