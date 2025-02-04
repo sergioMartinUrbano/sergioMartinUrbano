@@ -29,7 +29,7 @@ Este repositorio corresponde a un proyecto en el cual he trabajado como parte de
 
 ## 📬 Contáctame
 
-Si deseas contactar conmigo para proyectos, colaboración o simplemente para intercambiar ideas sobre desarrollo web, no dudes en enviarme un mensaje a través de [mi correo electrónico](mailto:sergiomartinurbano@example.com).
+Si deseas contactar conmigo para proyectos, colaboración o simplemente para intercambiar ideas sobre desarrollo web, no dudes en enviarme un mensaje a través de [mi correo electrónico](mailto:martinurbano.sergio@gmail.com).
 
 ---
 
