@@ -19,6 +19,9 @@ Actualmente, me enfoco en el desarrollo de **aplicaciones web dinámicas** usand
 ## 📚 Actividades recientes
 
 Este repositorio corresponde a un proyecto en el cual he trabajado como parte de una actividad de **despliegue web**. La idea principal es poner en práctica las habilidades adquiridas en la creación y despliegue de aplicaciones web utilizando herramientas como **Laravel** y **GitHub Actions**.
+[Repositorio 1](https://github.com/sergioMartinUrbano/proyectoFinalDAW)
+[Repositorio 2](https://github.com/sergioMartinUrbano/boardbyte)
+[Repositorio 3](https://github.com/sergioMartinUrbano/javascriptspire)
 
 ## 🌱 Actualmente estoy aprendiendo
 
